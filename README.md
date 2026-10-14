@@ -3,7 +3,7 @@ THE GOAT
 	<img src = "https://komarev.com/ghpvc/?username=michaell2409=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
 <div align="center">
