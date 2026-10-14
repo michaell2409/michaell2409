@@ -6,4 +6,4 @@ THE GOAT
 	<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
-<div align="center">
+
