@@ -5,13 +5,13 @@
 
 
 
-
-
-
 <h5 align="center"> THE GOAT </h5>
 <p align="center">
   <img src="https://raw.githubusercontent.com/michaell2409/michaell2409/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
+
+
+
 
 <h2 align="center">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
@@ -28,8 +28,4 @@ I am a Computer Science student with a strong passion for technology and continu
 
 🔐 My goal is to become a Chief Information Security Officer (CISO), the highest leadership position in cybersecurity. I am driven by the pursuit of excellence, continuous learning, and the ambition to lead strategies that protect organizations from evolving digital threats. 🔐
 
-<h5 align="center"> THE BAIFO </h5>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/michaell2409/michaell2409/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
