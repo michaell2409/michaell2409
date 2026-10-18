@@ -30,4 +30,5 @@ I am a Computer Science student with a strong passion for technology and continu
 
 <hr/>
 <b><h3>MY SKILLS</h3></b>
+
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
