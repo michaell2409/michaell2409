@@ -17,3 +17,9 @@ I am a Computer Science student with a strong passion for technology and continu
 “Always learning, always improving.” 🚀.
 
 🔐 My goal is to become a Chief Information Security Officer (CISO), the highest leadership position in cybersecurity. I am driven by the pursuit of excellence, continuous learning, and the ambition to lead strategies that protect organizations from evolving digital threats. 🔐
+
+<h5 align="center"> THE BAIFO </h5>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/michaell2409/michaell2409/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>
