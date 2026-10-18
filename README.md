@@ -28,5 +28,6 @@ I am a Computer Science student with a strong passion for technology and continu
 
 🔐 My goal is to become a Chief Information Security Officer (CISO), the highest leadership position in cybersecurity. I am driven by the pursuit of excellence, continuous learning, and the ambition to lead strategies that protect organizations from evolving digital threats. 🔐
 
+<hr/>
 <b><h3>MY SKILLS</h3></b>
-
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
