@@ -4,9 +4,8 @@ Serpiente-juego para el README de GitHub.
 
 - Empieza con 1 pixel y juega como una persona: elige a que dia ir, gira distinto cada vez y duda a ratos.
 - Cada dia con contribuciones que se come le suma 1 pixel.
-- Si hay pocos dias: se los come todos y al final choca consigo misma.
-- Si hay muchos dias: se los come todos con 75% de probabilidad (y celebra);
-  con 25% de probabilidad se muerde a mitad del camino, sin terminar.
+- Se los come todos con 75% de probabilidad (y celebra);
+  con 25% se muerde a mitad del camino, sin terminar. (Sin ningun dia: da un paseo y choca.)
 - Despues el juego se reinicia con 1 pixel (el SVG se repite en bucle).
   La suerte se vuelve a tirar cada vez que el workflow regenera el SVG.
 
@@ -29,7 +28,7 @@ SNAKE_HEAD = "#800080"   # cabeza (igual que el cuerpo)
 SNAKE_DEAD = "#f85149"   # color al chocar (rojo)
 SNAKE_WIN = "#ffd700"    # color al terminar de comer todo (dorado)
 
-MANY_DAYS = 10           # a partir de cuantos dias se considera "muchos"
+MANY_DAYS = 1            # desde cuantos dias se aplica la regla del 75% gana / 25% muere
 DEATH_CHANCE = 0.25      # probabilidad de morir cuando hay muchos dias
 
 STEP_SECONDS = 0.12      # segundos por movimiento
@@ -40,8 +39,8 @@ HOLD_END = 10            # pasos con el tablero vacio antes de reiniciar
 CELL, PITCH, PAD = 12, 15, 15   # tamano de celda, paso entre celdas, margen
 
 # colores de los dias (nivel 1..4) segun el tema claro/oscuro
-LIGHT = {"empty": "#ebedf0", 1: "#9be9a8", 2: "#40c463", 3: "#30a14e", 4: "#216e39"}
-DARK = {"empty": "#161b22", 1: "#0e4429", 2: "#006d32", 3: "#26a641", 4: "#39d353"}
+LIGHT = {"empty": "#ebedf0", 1: "#854d0e", 2: "#c2410c", 3: "#b91c1c", 4: "#7f1d1d"}
+DARK = {"empty": "#161b22", 1: "#854d0e", 2: "#c2410c", 3: "#b91c1c", 4: "#7f1d1d"}
 # ---------------------------------------------------------------------------------------
 
 ROWS = 7
@@ -260,9 +259,10 @@ def simulate(cells, force=None, rnd=None):
     # cuantos dias alcanza a comer antes de morir (solo si muere con muchos dias)
     stop_after = len(foods)
     if many and dies:
-        lo = max(5, math.ceil(0.3 * len(foods)))
-        hi = max(lo, math.ceil(0.85 * len(foods)))
-        stop_after = rnd.randint(lo, min(hi, len(foods)))
+        total = len(foods)
+        lo = min(total, max(5, math.ceil(0.3 * total)))
+        hi = min(total, max(lo, math.ceil(0.85 * total)))
+        stop_after = rnd.randint(lo, hi)
 
     route = None
     for _ in range(12):                              # varios intentos "humanos"
