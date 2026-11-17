@@ -7,7 +7,7 @@
 
 <h2 align="center"> THE BAIFO </h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/michaell2409/michaell2409/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <img src="https://raw.githubusercontent.com/michaell2409/michaell2409/output/github-contribution-grid-snake.svg?v=3" alt="Snake Game"/>
 </p>
 
 
