@@ -22,11 +22,11 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/Q1_rUR8RBS4AAAAi/discord-discordgifemoji.gif" />
 MICHAELL DANIEL TORRES LOPEZ
 
-I am a Computer Science student with a strong passion for technology and continuous learning. My goal is to specialize in cybersecurity, a field that inspires me because of its constant challenges and opportunities for innovation. I am always seeking to expand my knowledge and develop new skills to grow both personally and professionally.
+🧠 I want to be a quant because I am passionate about competitive programming and the constant challenges this field demands. I am driven by continuous learning, discipline, and the ambition to earn a great deal of money, because money is freedom. I will work relentlessly to achieve it, and I will do it so that ten generations of my family never have to worry about money. 🧠
 
 <p align="center"><i>"Always learning, always improving." 🚀</i><br><b>- Michaell</b></p>
 
-🔐 My goal is to become a Chief Information Security Officer (CISO), the highest leadership position in cybersecurity. I am driven by the pursuit of excellence, continuous learning, and the ambition to lead strategies that protect organizations from evolving digital threats. 🔐
+👑 I aspire to reach the top of the quant world as Chief Investment Officer (CIO) of a quantitative fund, one of the highest-paid positions in the industry. I am driven by the pursuit of excellence, constant evolution, and the ambition to lead strategies that turn data and code into extraordinary results in the financial markets. 👑
 
 <p align="center"><i>"Rich or dead." 💰</i><br><b>- Víctor Mendívil</b></p>
 
