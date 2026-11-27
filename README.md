@@ -24,9 +24,11 @@ MICHAELL DANIEL TORRES LOPEZ
 
 I am a Computer Science student with a strong passion for technology and continuous learning. My goal is to specialize in cybersecurity, a field that inspires me because of its constant challenges and opportunities for innovation. I am always seeking to expand my knowledge and develop new skills to grow both personally and professionally.
 
-“Always learning, always improving.” 🚀.
+<p align="center"><i>"Always learning, always improving." 🚀</i><br><b>- Michaell</b></p>
 
 🔐 My goal is to become a Chief Information Security Officer (CISO), the highest leadership position in cybersecurity. I am driven by the pursuit of excellence, continuous learning, and the ambition to lead strategies that protect organizations from evolving digital threats. 🔐
+
+<p align="center"><i>"Rich or dead." 💰</i><br><b>- Víctor Mendívil</b></p>
 
 <hr/>
 <h3>💻MY SKILLS</h3>
