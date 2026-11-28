@@ -20,7 +20,7 @@
 </h1>
 
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/Q1_rUR8RBS4AAAAi/discord-discordgifemoji.gif" />
-<a href="AQUI_EL_ENLACE_DE_ZAZA"><img align="left" width="190" alt="Rico o Muerto - Zaza" title="▶ Zaza" src="https://raw.githubusercontent.com/michaell2409/michaell2409/main/disco-rico-o-muerto.svg" /></a>
+<a href="https://www.youtube.com/watch?v=e2-8migrnJk&list=RDe2-8migrnJk&start_radio=1"><img align="left" width="190" alt="Rico o Muerto - Zaza" title="▶ Zaza" src="https://raw.githubusercontent.com/michaell2409/michaell2409/main/disco-rico-o-muerto.svg" /></a>
 MICHAELL DANIEL TORRES LOPEZ
 
 🧠 I want to be a quant because I am passionate about competitive programming and the constant challenges this field demands. I am driven by continuous learning, discipline, and the ambition to earn a great deal of money, because money is freedom. I will work relentlessly to achieve it, and I will do it so that ten generations of my family never have to worry about money. 🧠
