@@ -20,6 +20,7 @@
 </h1>
 
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/Q1_rUR8RBS4AAAAi/discord-discordgifemoji.gif" />
+<a href="AQUI_EL_ENLACE_DE_ZAZA"><img align="left" width="190" alt="Rico o Muerto - Zaza" title="▶ Zaza" src="https://raw.githubusercontent.com/michaell2409/michaell2409/main/disco-rico-o-muerto.svg" /></a>
 MICHAELL DANIEL TORRES LOPEZ
 
 🧠 I want to be a quant because I am passionate about competitive programming and the constant challenges this field demands. I am driven by continuous learning, discipline, and the ambition to earn a great deal of money, because money is freedom. I will work relentlessly to achieve it, and I will do it so that ten generations of my family never have to worry about money. 🧠
@@ -28,16 +29,9 @@ MICHAELL DANIEL TORRES LOPEZ
 
 👑 I aspire to reach the top of the quant world as Chief Investment Officer (CIO) of a quantitative fund, one of the highest-paid positions in the industry. I am driven by the pursuit of excellence, constant evolution, and the ambition to lead strategies that turn data and code into extraordinary results in the financial markets. 👑
 
-<p align="center"><i>"Rich or dead." 💰</i><br><b>- Víctor Mendívil</b></p>
+<p align="center"><i>"Get rich or die tryin'." 💰</i><br><b>- Víctor Mendívil</b></p>
 
-
-<p align="center">
-  <a href="AQUI_EL_ENLACE_DE_ZAZA">
-    <img src="https://raw.githubusercontent.com/michaell2409/michaell2409/main/disco-rico-o-muerto.svg" alt="Rico o Muerto - Zaza" width="250"/>
-  </a>
-  <br/>
-  <b>▶ Zaza</b>
-</p>
+<br clear="all"/>
 
 <hr/>
 <h3>💻MY SKILLS</h3>
