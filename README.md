@@ -29,7 +29,7 @@ MICHAELL DANIEL TORRES LOPEZ
 
 👑 I aspire to reach the top of the quant world as Chief Investment Officer (CIO) of a quantitative fund, one of the highest-paid positions in the industry. I am driven by the pursuit of excellence, constant evolution, and the ambition to lead strategies that turn data and code into extraordinary results in the financial markets. 👑
 
-<p align="center"><i>"Get rich or die tryin'." 💰</i><br><b>- Víctor Mendívil</b></p>
+<p align="center"><i>"rich or dead." 💰</i><br><b>- Víctor Mendívil</b></p>
 
 <br clear="all"/>
 
