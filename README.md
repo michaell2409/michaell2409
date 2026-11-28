@@ -30,6 +30,15 @@ MICHAELL DANIEL TORRES LOPEZ
 
 <p align="center"><i>"Rich or dead." 💰</i><br><b>- Víctor Mendívil</b></p>
 
+
+<p align="center">
+  <a href="AQUI_EL_ENLACE_DE_ZAZA">
+    <img src="https://raw.githubusercontent.com/michaell2409/michaell2409/main/disco-rico-o-muerto.svg" alt="Rico o Muerto - Zaza" width="250"/>
+  </a>
+  <br/>
+  <b>▶ Zaza</b>
+</p>
+
 <hr/>
 <h3>💻MY SKILLS</h3>
 
